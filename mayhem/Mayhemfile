@@ -1,0 +1,4 @@
+project: thor
+target: thor-thor-blake2b-fuzz
+cmds:
+  - cmd: ./blake2b-fuzz.libfuzzer
